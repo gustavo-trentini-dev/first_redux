@@ -20,8 +20,8 @@ The project will start at http://localhost:3000
 
 ### HomePage
 
-![alt text](https://github.com/trentsgustavo/first_redux/tree/master/public/images/home.png)
+![alt text](https://github.com/trentsgustavo/first_redux/blob/master/public/images/home.png)
 
 ### Shopping Cart
 
-![alt text](https://github.com/trentsgustavo/first_redux/tree/master/public/images/cart.png)
+![alt text](https://github.com/trentsgustavo/first_redux/blob/master/public/images/cart.png)
