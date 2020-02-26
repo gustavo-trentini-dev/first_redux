@@ -4,17 +4,17 @@ This is my project using Redux and Redux Saga, it's an fake e-commerce.
 
 ### Install dependencies
 
-Clone the project, then access the folder and run ### `yarn install`
+Clone the project, then access the folder and run `yarn install`
 
 ### Run json-server
 
-To run the API, run ### `json-server server.json -p 3333`
+To run the API, run `json-server server.json -p 3333`
 
 The server will start at the port 3333
 
 ### Start the project
 
-To run the project, just run ### `yarn start`
+To run the project, just run `yarn start`
 
 The project will start at http://localhost:3000
 
